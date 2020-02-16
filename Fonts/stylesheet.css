@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Quikhand';
+    src: url('Quikhand.eot');
+    src: url('Quikhand.eot?#iefix') format('embedded-opentype'),
+        url('Quikhand.woff2') format('woff2'),
+        url('Quikhand.woff') format('woff'),
+        url('Quikhand.ttf') format('truetype'),
+        url('Quikhand.svg#Quikhand') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
